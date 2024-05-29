@@ -1,9 +1,10 @@
 # Akıllı Trafik Yönetim Sistemi
+------
+ *Bu proje Kocaeli Üniversitesi Yüksek Lisans projesi için hazırlanmıştır.*    
+ **Hazırlayan:** Rumeysa ÜSTÜN    
+ **Numara:** 235112003    
 
- *Bu proje Kocaeli Üniversitesi Yüksek Lisans projesi için hazırlanmıştır.*
- **Hazırlayan:** Rumeysa ÜSTÜN
- **Numara:** 235112003
- 
+ -------
 ## 1. Proje Tanımı
 🚗 Akıllı Trafik Yönetim Sistemi, büyük bir şehirde trafik akışını optimize etmek, trafik sıkışıklığını azaltmak ve yol kullanıcılarının güvenliğini artırmak amacıyla geliştirilecek bir sistemdir. Bu sistem, IBM IOC platformunu kullanarak gerçek zamanlı trafik verilerini toplayacak, analiz edecek ve yönetim kararlarını destekleyecek.
 
